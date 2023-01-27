@@ -1,5 +1,5 @@
 # Portfolio Optimization Project
-This repository contains a project that uses historical stock data for 5 stocks: AMZN (Amazon.com, Inc.), BA (Boeing Co), MCD (McDonald's Corp), NKE (Nike Inc), NVDA (NVIDIA Corporation)
+  This repository contains a project that uses historical stock data for 5 stocks: AMZN (Amazon.com, Inc.), BA (Boeing Co), MCD (McDonald's Corp), NKE (Nike Inc), NVDA (NVIDIA Corporation)
 f
 f
 
